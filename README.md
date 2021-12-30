@@ -39,11 +39,11 @@ def gcd():
         if n1%i==0 and n2%i==0:
 
             gcd=i
-            
+
     print("GCD of two numbers is:",gcd)
 
 ## Output:
-![gcd of two number]()
+![gcd of two number](https://github.com/VINUTHNA-2004/GCD-of-two-numbers/blob/main/Screenshot%20(38).png)
 
 
 ## Result:
